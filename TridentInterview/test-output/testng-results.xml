@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Trident Automation Tests" duration-ms="13489" started-at="2019-08-20T05:19:28Z" finished-at="2019-08-20T05:19:41Z">
+    <groups>
+    </groups>
+    <test name="Trident" duration-ms="13489" started-at="2019-08-20T05:19:28Z" finished-at="2019-08-20T05:19:41Z">
+      <class name="com.trident.tests.TridentPagesTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.trident.tests.TridentPagesTests@91161c7]" name="setUp" is-config="true" duration-ms="11348" started-at="2019-08-20T05:19:28Z" finished-at="2019-08-20T05:19:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="placeHolderValueGetText()[pri:1, instance:com.trident.tests.TridentPagesTests@91161c7]" name="placeHolderValueGetText" duration-ms="283" started-at="2019-08-20T05:19:39Z" description=" Scenario 1 : Get the Search Box  Value Exact Text" finished-at="2019-08-20T05:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeHolderValueGetText -->
+        <test-method status="PASS" signature="placeHolderValueTest()[pri:2, instance:com.trident.tests.TridentPagesTests@91161c7]" name="placeHolderValueTest" duration-ms="40" started-at="2019-08-20T05:19:40Z" description=" Scenario 2 : Get the search Box Number value with adding Some prefix and suffix text" finished-at="2019-08-20T05:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeHolderValueTest -->
+        <test-method status="PASS" signature="tabsListsGetText()[pri:3, instance:com.trident.tests.TridentPagesTests@91161c7]" name="tabsListsGetText" duration-ms="546" started-at="2019-08-20T05:19:40Z" description=" Scenario 3 : Get the List Value of all the tabs and adding some prefix and suffix" finished-at="2019-08-20T05:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabsListsGetText -->
+        <test-method status="PASS" signature="totalNumResources()[pri:4, instance:com.trident.tests.TridentPagesTests@91161c7]" name="totalNumResources" duration-ms="266" started-at="2019-08-20T05:19:40Z" description=" Scenario 4 : Get the total count of the list value numbers" finished-at="2019-08-20T05:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalNumResources -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.trident.tests.TridentPagesTests@91161c7]" name="tearDown" is-config="true" duration-ms="942" started-at="2019-08-20T05:19:40Z" finished-at="2019-08-20T05:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.trident.tests.TridentPagesTests -->
+    </test> <!-- Trident -->
+  </suite> <!-- Trident Automation Tests -->
+</testng-results>
