@@ -5,7 +5,7 @@ PreCondition : Maven has to be installed
 			 : Chrome Browser Version : above  70
 			 : FireFox Browser Version: above  60
              			 
-  I have created this project in maven. so need to install the plugins manually. I have added the dependencies according to the project needs in the pom.xml file.
+  I have created this project in maven. so no need to install the plugins manually. I have added the dependencies according to the project needs in the pom.xml file.
 Dependencies Added in to that project : 
    - Selenium WebDriver
    - ChromeDriver  
